@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Sup I'm Charles](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f60e_1f37a_1f44a_1f602&text=Sup%2520I%27m%2520Charles)]
 [![Charles Carroll header](https://raw.githubusercontent.com/CharlesInteractive/CharlesInteractive/main/assets/charles.jpg)](https://www.blackiceinteractive.com)
 <!--
 **CharlesInteractive/CharlesInteractive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
