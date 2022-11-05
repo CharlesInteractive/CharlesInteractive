@@ -1,4 +1,4 @@
-[![Charles Carroll header](https://raw.githubusercontent.com/CharlesInteractive/CharlesInteractive/main/assets/charles.jpg)](https://www.blackiceinteractive.com)]()
+[![Charles Carroll header](https://raw.githubusercontent.com/CharlesInteractive/CharlesInteractive/main/assets/charles.jpg)](https://www.blackiceinteractive.com)]
 [![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesInteractive&show_icons=true&theme=merko)](https://github.com/CharlesInteractive/)
 <!--
 **CharlesInteractive/CharlesInteractive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
