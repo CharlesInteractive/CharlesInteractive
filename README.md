@@ -1,6 +1,7 @@
-## Hi, I'm Charles
+## Charles Carroll
 
-Full Stack Web Engineer building the future at
+Full stack web wngineer building the future.
+
 **[Black Ice Interactive](https://www.blackiceinteractive.com/)**.
 
 [![Website](https://img.shields.io/badge/blackiceinteractive.com-0366d6?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.blackiceinteractive.com/)
