@@ -1,6 +1,6 @@
 ## Charles Carroll
 
-Full stack web wngineer building the future.
+Full stack web engineer building the future.
 
 **[Black Ice Interactive](https://www.blackiceinteractive.com/)**.
 
